@@ -8,14 +8,14 @@ class Weather extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      forecasts: null
+      forecasts: null,
       focusedForecastDt: null,
     }
   }
 
   componentDidMount(){
     getForecast().then(forecasts => {
-      this.setState({ forecasts: forecasts, focusedForecastDt: forecast.dt})
+      this.setState({ forecasts: forecasts, focusedForecastDt: forecasts.list[0].dt})
     })
   }
 
