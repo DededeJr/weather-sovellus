@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-sovellus/static/css/main.ed9af1d0.chunk.css",
+    "main.js": "/weather-sovellus/static/js/main.9bce03a7.chunk.js",
+    "main.js.map": "/weather-sovellus/static/js/main.9bce03a7.chunk.js.map",
+    "runtime-main.js": "/weather-sovellus/static/js/runtime-main.022940f0.js",
+    "runtime-main.js.map": "/weather-sovellus/static/js/runtime-main.022940f0.js.map",
+    "static/js/2.2bfdb317.chunk.js": "/weather-sovellus/static/js/2.2bfdb317.chunk.js",
+    "static/js/2.2bfdb317.chunk.js.map": "/weather-sovellus/static/js/2.2bfdb317.chunk.js.map",
+    "index.html": "/weather-sovellus/index.html",
+    "precache-manifest.0c2c22e5c430edb7a672bf918aea9692.js": "/weather-sovellus/precache-manifest.0c2c22e5c430edb7a672bf918aea9692.js",
+    "service-worker.js": "/weather-sovellus/service-worker.js",
+    "static/css/main.ed9af1d0.chunk.css.map": "/weather-sovellus/static/css/main.ed9af1d0.chunk.css.map",
+    "static/js/2.2bfdb317.chunk.js.LICENSE.txt": "/weather-sovellus/static/js/2.2bfdb317.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022940f0.js",
+    "static/js/2.2bfdb317.chunk.js",
+    "static/css/main.ed9af1d0.chunk.css",
+    "static/js/main.9bce03a7.chunk.js"
+  ]
+}
